@@ -16,4 +16,5 @@ public class AppSettingsFragment extends PreferenceFragmentCompat
     {
         setPreferencesFromResource(R.xml.preferences, rootKey);
     }
+	//This is add in main
 }
