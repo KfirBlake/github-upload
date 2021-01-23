@@ -15,4 +15,5 @@ public class AppSettingsActivity extends AppCompatActivity
                 .replace(android.R.id.content, new AppSettingsFragment())
                 .commit();
     }
+	//This is inside Test Branch
 }
